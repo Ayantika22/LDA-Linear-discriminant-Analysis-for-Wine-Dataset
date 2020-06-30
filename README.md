@@ -33,4 +33,4 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 
 LDA Cluster
 
-![alt text](
+![alt text](https://github.com/Ayantika22/LDA-Linear-discriminant-Analysis-for-Wine-Dataset/blob/master/image.png)
